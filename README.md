@@ -1,5 +1,5 @@
 # SimpleSudokuSolver
-A sudoku solver for Android developed in Java for the course EDAA30 (Programming in Java - Second Course). Application is also available on the Google Play Store.
+A sudoku solver for Android developed in Java. Application is also available on the Google Play Store.
 [Simple Sudoku Solver on the Google Play Store](https://play.google.com/store/apps/details?id=com.zairian.sudokusolver)
 
 Solver is using a custom made recursive brute-force algorithm to solve the puzzles. Improvements could be made with constraint programming to handle puzzles where many calculations are necessary to reach answer.
